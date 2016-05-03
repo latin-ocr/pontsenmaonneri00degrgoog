@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pontsenmaonneri00degrgoog_0471.png"; bbox 0 0 967 1452; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 277 555 296 949">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 277 555 296 949">
+     <span class='ocr_line' id='line_1_1' title="bbox 277 555 296 949; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 277 863 295 949; x_wconf 69' lang='lat' dir='ltr'>NGUVEAU</span> <span class='ocrx_word' id='word_1_2' title='bbox 281 806 296 853; x_wconf 77' lang='lat' dir='ltr'>PONT</span> <span class='ocrx_word' id='word_1_3' title='bbox 281 773 296 796; x_wconf 79' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 281 691 296 764; x_wconf 72' lang='lat' dir='ltr'>LAVAUR</span> <span class='ocrx_word' id='word_1_5' title='bbox 289 664 292 682; x_wconf 95' lang='lat'><em>—</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 279 555 296 655; x_wconf 75' lang='lat' dir='ltr'>ELEVATION</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 236 233 600 1273">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 236 233 600 1273">
+     <span class='ocr_line' id='line_1_2' title="bbox 236 233 600 1273; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 236 233 600 1273; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 244 187 274 204">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 244 187 274 204">
+     <span class='ocr_line' id='line_1_3' title="bbox 244 187 274 204; baseline -0.033 0"><span class='ocrx_word' id='word_1_8' title='bbox 244 187 274 204; x_wconf 71' lang='grc'>462</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 308 188 595 204">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 308 188 595 204">
+     <span class='ocr_line' id='line_1_4' title="bbox 308 188 595 204; baseline 0.003 -1"><span class='ocrx_word' id='word_1_9' title='bbox 308 188 339 204; x_wconf 87' lang='lat' dir='ltr'>cu.</span> <span class='ocrx_word' id='word_1_10' title='bbox 351 188 371 203; x_wconf 83' lang='grc' dir='ltr'>ΠΙ</span> <span class='ocrx_word' id='word_1_11' title='bbox 381 196 401 199; x_wconf 89' lang='lat'>—-</span> <span class='ocrx_word' id='word_1_12' title='bbox 412 188 475 204; x_wconf 85' lang='lat' dir='ltr'>PONTS</span> <span class='ocrx_word' id='word_1_13' title='bbox 486 188 510 204; x_wconf 81' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_14' title='bbox 520 188 595 204; x_wconf 76' lang='lat' dir='ltr'><strong>VIADUC!</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

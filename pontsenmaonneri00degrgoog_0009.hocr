@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pontsenmaonneri00degrgoog_0009.png"; bbox 0 0 3572 5516; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 451 1831 1506 1932">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 451 1831 1506 1932">
+     <span class='ocr_line' id='line_1_1' title="bbox 451 1831 1506 1932; baseline 0.008 -34"><span class='ocrx_word' id='word_1_1' title='bbox 451 1833 520 1900; x_wconf 76' lang='lat' dir='ltr'><em>Une</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 540 1838 631 1914; x_wconf 76' lang='lat' dir='ltr'><em>table</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 648 1836 892 1918; x_wconf 65' lang='lat' dir='ltr'><em>azpnabecique</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 910 1842 960 1909; x_wconf 80' lang='lat' dir='ltr'><em>est</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 979 1838 1101 1932; x_wconf 69' lang='lat' dir='ltr'><em>placeo</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1122 1835 1145 1904; x_wconf 72' lang='grc' dir='ltr'><em>α</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1168 1837 1203 1902; x_wconf 80' lang='lat' dir='ltr'><em>la</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1221 1831 1269 1906; x_wconf 72' lang='lat' dir='ltr'><em>fin</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1289 1833 1338 1900; x_wconf 78' lang='lat' dir='ltr'><em>du</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1357 1839 1506 1904; x_wconf 79' lang='lat' dir='ltr'><em>volume.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1790 5508">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1790 5508">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1790 5508; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1790 5508; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

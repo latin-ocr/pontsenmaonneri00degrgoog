@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pontsenmaonneri00degrgoog_0093.png"; bbox 0 0 967 1452; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 239 574 259 851">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 239 574 259 851">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 574 259 851; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 242 786 257 851; x_wconf 69' lang='lat' dir='ltr'><strong>pnosm·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 242 753 256 776; x_wconf 77' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 242 693 259 744; x_wconf 68' lang='lat' dir='ltr'><strong>Pom,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 242 645 256 682; x_wconf 73' lang='lat' dir='ltr'>xvlo</span> <span class='ocrx_word' id='word_1_5' title='bbox 239 574 257 635; x_wconf 69' lang='lat' dir='ltr'><strong>smcLE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 799 558 816 872">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 799 558 816 872">
+     <span class='ocr_line' id='line_1_2' title="bbox 799 558 816 872; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 799 827 816 872; x_wconf 66' lang='lat' dir='ltr'><strong>ijnt</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 799 806 812 822; x_wconf 83' lang='grc' dir='ltr'><strong>ι1ιι</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 799 741 812 800; x_wconf 68' lang='lat' dir='ltr'><strong>miamin</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 803 698 816 733; x_wconf 77' lang='lat' dir='ltr'><strong>pum·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 799 680 812 692; x_wconf 70' lang='lat' dir='ltr'><strong>le</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 800 640 815 672; x_wconf 72' lang='lat' dir='ltr'><strong>pon!</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 799 612 812 631; x_wconf 79' lang='lat' dir='ltr'><strong>du</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 799 558 812 605; x_wconf 37' lang='lat' dir='ltr'>malm*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 909 36 927 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 909 36 927 1402">
+     <span class='ocr_line' id='line_1_3' title="bbox 909 36 927 1402; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 909 36 927 1402; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
